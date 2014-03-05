@@ -1,6 +1,6 @@
 # keymacs.safariextension
 
-Emacs like keybind for safari
+Emacs like keybind for Safari
 
 ## Scrolling
 
