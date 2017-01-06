@@ -65,5 +65,11 @@ document.onkeypress = function() {
         // C-e
         window.scrollBy(document.body.scrollWidth, 0);
         break;
+
+    // Back
+    case 4:
+        // C-d
+        history.back();
+        break;
     }
 }

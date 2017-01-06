@@ -21,3 +21,7 @@ Emacs like keybind for Safari
 * M-b
 * C-a
 * C-e
+
+## Back
+
+* C-d
